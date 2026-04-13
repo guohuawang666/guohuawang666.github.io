@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 ---
 
-# About Me
 
 I am Guohua Wang, a PhD candidate at the School of Architecture, Southwest Jiaotong University, China. My research focuses on rail transit, climate and thermal comfort, subway hub blocks, and urban microclimate. I have published peer-reviewed articles in Land, Buildings, Scientific Reports, and Ecosystem Health and Sustainability.
 
