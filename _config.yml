@@ -33,18 +33,17 @@ author:
 
 
   # Academic websites
-academia:
-arxiv:
-google_scholar:
-inspire-hep:
-impactstory:
-orcid:
-semantic:
-ssrn:
-pubmed:
-researchgate:
-scopus:
-zotero:
+  academia:
+  arxiv:
+  googlescholar:
+  inspire-hep:
+  impactstory:
+  semantic:
+  ssrn:
+  pubmed:
+  researchgate:
+  scopus:
+  zotero:
 
 
   # Repositories and software development
