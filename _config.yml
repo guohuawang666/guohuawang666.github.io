@@ -25,6 +25,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   picture: "/images/profile.jpg"
   name: "Guohua Wang"
+  orcid: "https://orcid.org/0009-0008-6068-1457"
   bio: "PhD Candidate..."
   location: "China"
   employer: "Southwest Jiaotong University"
