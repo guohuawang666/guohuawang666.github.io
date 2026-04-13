@@ -25,10 +25,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   picture: "/images/profile.jpg"
   name: "Guohua Wang"
-  bio: "PhD Candidate in Architecture, Southwest Jiaotong University."
+  bio: "PhD Candidate..."
   location: "China"
   employer: "Southwest Jiaotong University"
   email: "1419239478@my.swjtu.edu.cn"
+
+orcid: "https://orcid.org/0009-0008-6068-1457"
 
   # Academic websites
   academia         : # URL
