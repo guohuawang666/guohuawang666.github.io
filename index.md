@@ -16,10 +16,10 @@ I am Guohua Wang, a PhD candidate at the School of Architecture, Southwest Jiaot
 
 ## Education
 **PhD Candidate**, Southwest Jiaotong University  
-2021–present  
+2020–present  
 
 **Master of Architecture**, Xi’an University of Architecture and Technology  
-2018–2021  
+2015–2020
 
 ## Contact
 Email: 1419239478@my.swjtu.edu.cn
